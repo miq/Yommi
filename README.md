@@ -22,7 +22,7 @@ Use an organizer tool to add metadata to photos and put them in a systematic
 and ordered directory structure. The organizer may have to be run on some
 desktop/laptop computer. It creates and manages your "digital media library".
 
-Examples: shotwell, iPhoto, digikam etc.
+Examples: [shotwell](https://github.com/GNOME/shotwell), iPhoto, [digikam](https://www.digikam.org/) etc.
 
 ### Provide
 A network service/server tool provides convenient access to your media
